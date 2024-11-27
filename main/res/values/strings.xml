@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">lab8working</string>
+    <string name="item_description">item_description</string>
+    <string name="item_name">item_name</string>
+    <string name="save_item">save_item</string>
+    <string name="add_item">add_item</string>
+    <string name="update_item">update_item</string>
+    <string name="category">category</string>
+    <string name="_00_00_00">00:00:00</string>
+    <string name="stop_timer">Stop Timer</string>
+    <string name="home">Home</string>
+    <string name="add_activity">Add Activity</string>
+    <string name="community">Community</string>
+    <string name="profile">Profile</string>
+    <string name="_45_minutes_ago">45 minutes ago</string>
+    <string name="john_completed_a_10_km_ride">John completed a 10 km ride</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="community_feed">Community Feed</string>
+    <string name="_15010_0_m">15010.0 m</string>
+    <string name="time_01_25_00">Time : 01:25:00</string>
+    <string name="hard">Hard</string>
+    <string name="long_run_for_the_week">Long Run For the week</string>
+    <string name="run">Run</string>
+    <string name="_5200_01_m">5200.01 m</string>
+    <string name="time_00_28_34">Time : 00:28:34</string>
+    <string name="easy">Easy</string>
+    <string name="nice_way_to_start_the_day">Nice way to start the day</string>
+    <string name="walk">Walk</string>
+    <string name="recent_activities">Recent Activities</string>
+    <string name="start_run">Start Run</string>
+    <string name="yourfitnessfriend">YourFitnessFriend</string>
+    <string name="user_profile">User Profile</string>
+</resources>
